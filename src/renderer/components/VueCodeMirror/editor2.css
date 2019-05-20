@@ -1,0 +1,71 @@
+/**
+ editor样式
+ */
+/**
+光标样式
+ */
+.CodeMirror-cursor {
+    border-left: 2px solid #032f62;
+    border-right: none;
+    width: 0;
+}
+
+.CodeMirror {
+    font-size: 16px;
+    height: auto;
+    white-space: pre-wrap;
+    font-family: Menlo, "Ubuntu Mono", Consolas, "Courier New", "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+}
+
+.CodeMirror-lines {
+    line-height: 1.5em;
+}
+
+.cm-s-default .cm-header {
+    color: #24292e;
+}
+
+.cm-header-1 {
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 0.3em;
+}
+
+.cm-header-2 {
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 0.3em;
+}
+
+.cm-header-3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.cm-header-4 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.cm-header-5 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.cm-header-6 {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.cm-s-default .cm-quote, .cm-s-default .cm-link {
+    color: #0366d6;
+}
+
+.cm-s-default .cm-string {
+    color: #24292e;
+}
+
+.cm-link {
+    text-decoration: none;
+    color: #0366d6;
+}

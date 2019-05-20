@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+dist
+build/*
+!build/icons
+node_modules/
+npm-debug.log
+npm-debug.log.*
+thumbs.dbDoc
+!.gitkeep
