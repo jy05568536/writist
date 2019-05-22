@@ -11,7 +11,7 @@
   font-family: Menlo, "Ubuntu Mono", Consolas, "Courier New", "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
 }
 
-.CodeMirror-lines {
+.CodeMirror-line {
   line-height: 1.5em;
 }
 
@@ -54,6 +54,5 @@
 }
 
 .CodeMirror-activeline-background {
-  top: -10px;
-  background: #F3F1F3;
+  background: #eee;
 }

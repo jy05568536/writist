@@ -41,6 +41,7 @@
 <style>
     html, body, .wrapper {
         height: 100%;
+        overflow: hidden;
         font-family: Menlo, "Ubuntu Mono", Consolas, "Courier New", "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
     }
 
@@ -54,14 +55,19 @@
         padding: 10px 3px;
         position: fixed;
         z-index: 999;
-        bottom: 40px;
+        font-size: 24px;
+        top: 0;
+        margin-left: 10px;
         cursor: pointer;
     }
 
     .side div {
         padding-top: 3px;
-        width: 12px;
-        margin: 0 auto;
+        display: inline-block;
+        width: 24px;
+        margin: 0 1px;
+        position: relative;
+        top: 1px;
         line-height: 12px;
         font-size: 12px;
     }

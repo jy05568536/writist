@@ -195,6 +195,8 @@ B->>A: 有啥不一样
 <style scoped>
     .tool {
         display: inline-block;
+        padding-left: 60px;
+        user-select:none;
     }
 
     .split {
