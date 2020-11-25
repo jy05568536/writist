@@ -60,7 +60,7 @@
     "vuex-electron": "^1.0.0",
     "element-ui": "^2.4.5",
     "codemirror": "^5.42.2",
-    "highlight.js": "^9.12.0",
+    "highlight.js": "^10.1.2",
     "@fortawesome/fontawesome-free": "^5.3.1",
     "markdown-it": "^8.4.2",
     "markdown-it-task-lists": "^2.1.1",
