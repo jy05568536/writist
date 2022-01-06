@@ -74,7 +74,7 @@
     "markdown-it-regexp": "^0.4.0",
     "markdown-it-emoji": "^1.4.0",
     "katex": "^0.10.0-rc.1",
-    "mermaid": "^8.0.0-rc.8",
+    "mermaid": "^8.13.8",
     "nedb": "^1.8.0",
     "moment": "^2.24.0",
     "vuedraggable": "^2.20.0",
