@@ -76,7 +76,7 @@
     "katex": "^0.10.0-rc.1",
     "mermaid": "^8.0.0-rc.8",
     "nedb": "^1.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vuedraggable": "^2.20.0",
     "uuid": "^3.3.2",
     "lodash": "^4.17.11"
